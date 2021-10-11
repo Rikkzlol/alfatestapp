@@ -21,4 +21,5 @@ Nice to Have
 GET localhost:8080/main/valuecodes
 
 Запуск jar:
+
 java -jar alfatestapp-0.0.1.jar
